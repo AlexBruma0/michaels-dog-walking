@@ -1,5 +1,5 @@
 import './App.css'
-import { Button,Heading, Box } from '@chakra-ui/react'
+import { Heading} from '@chakra-ui/react'
 function App() {
 
   return (
