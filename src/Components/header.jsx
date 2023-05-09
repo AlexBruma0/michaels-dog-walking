@@ -7,11 +7,12 @@ const Header = () => {
   return (
     <>
       <Heading
-        bg="black"
+        bg="#000000"
         color="white"
         paddingTop="4%"
         paddingBottom="1%"
         fontFamily="Anton"
+        fontSize='3.5vw'
       >
         <Highlight
           query="Michaels"
@@ -19,7 +20,7 @@ const Header = () => {
             fontFamily: "Dancing Script",
             color: "white",
             fontWeight: "900",
-            fontSize: "45",
+            fontSize: "4.5vw",
           }}
         >
           Michaels DogWalking
