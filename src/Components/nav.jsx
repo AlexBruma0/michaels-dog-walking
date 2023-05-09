@@ -5,46 +5,46 @@ const Nav = () => {
     <>
       <Box paddingTop="3%">
         <Button
-                  colorScheme="blackAlpha"
-                  color='white'
+          colorScheme="blackAlpha"
+          color="white"
           paddingRight="6vw"
           paddingLeft="6vw"
           fontFamily="raleway"
           variant="ghost"
-          fontSize='1.5vw'
+          fontSize="1.5vw"
         >
           Services
         </Button>
         <Button
-                  colorScheme="blackAlpha"
-                  color='white'
+          colorScheme="blackAlpha"
+          color="white"
           paddingRight="6vw"
           paddingLeft="6vw"
           fontFamily="raleway"
           variant="ghost"
-          fontSize='1.5vw'
+          fontSize="1.5vw"
         >
           Contact
         </Button>
         <Button
-         colorScheme="blackAlpha"
-          color='white'
+          colorScheme="blackAlpha"
+          color="white"
           paddingRight="6vw"
           paddingLeft="6vw"
           fontFamily="raleway"
           variant="ghost"
-          fontSize='1.5vw'
+          fontSize="1.5vw"
         >
           Location
         </Button>
         <Button
-                  colorScheme="blackAlpha"
-                  color='white'
+          colorScheme="blackAlpha"
+          color="white"
           paddingRight="6vw"
           paddingLeft="6vw"
           fontFamily="raleway"
           variant="ghost"
-          fontSize='1.5vw'
+          fontSize="1.5vw"
         >
           Reviews
         </Button>

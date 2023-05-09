@@ -12,7 +12,7 @@ const Header = () => {
         paddingTop="4%"
         paddingBottom="1%"
         fontFamily="Anton"
-        fontSize='3.5vw'
+        fontSize="3.5vw"
       >
         <Highlight
           query="Michaels"
